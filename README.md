@@ -11,5 +11,8 @@ I wanted to create an animation for median NDVI in China. I found it was hard to
 
 Notice that there are four features in the mask FeatureCollection for China. I use the Union function to make it as one. Then, I print out the bounds feature of mask to get the four coordinates of the region.
 
-## result
-![NDVI Animation of Kenya](images/NDVI_animation_KE.gif)
+## Result
+![NDVI Animation of Kenya](china_ndvi.gif)
+
+## Analysis
+
