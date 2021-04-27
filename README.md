@@ -1,5 +1,5 @@
 # NDVI Analysis in Google Earth Engine
-## Introction
+## Introduction
 This lab is to create an animation for the median NDVI in one country on Google earth engine. The data source is MODIS vegetation indices dataset. This lab helps us to know how to 
 * Fetch the remote sensing data on Google Earth Engine
 * Define region of interest and animation frame geometries
