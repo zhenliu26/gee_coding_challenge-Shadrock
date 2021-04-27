@@ -18,4 +18,4 @@ Notice that there are four features in the mask FeatureCollection for China. I u
 From the animation. we can see:
 * The NDVI in the west of China is always low. The potential reason is that the west of China is mostly covered by desert.
 * The NDVI in the south of China is always high. The reasons could be that the south of China is warmer than the North of China, that the density of vegetation in the south of China is higher than the north, or that there is less snow in the south of China in the winter than the north.
-* The NDVI in the north of China shows a seasonal pattern. NDVI is low in fall and winter, and high in spring and summer.
+* The NDVI in the northeastern China shows a seasonal pattern. NDVI is low in fall and winter, and high in spring and summer.
