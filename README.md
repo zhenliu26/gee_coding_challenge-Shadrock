@@ -8,6 +8,7 @@ This lab is to create an animation for the median NDVI in one country on Google 
 
 ## Challenges
 I want to create an animation for median NDVI in China. I found it was hard to get the mask and region from the dataset Large Scale International Boundary. At first, I used the feature "wld_rgn" to search the boundaries for China. However, the function didn't find the result. Then, I found that the dataset provided the feature “country_co” which is the two-letter FIPS country code to find the target country. It avoided the situation that there are multiple names for one country (like US, USA, the United States, and the States). I got a FeatureCollection as the mask.
+
 Notice that there are four features in the mask FeatureCollection for China. I use the Union function to make it as one. Then, I print out the bounds feature of mask to get the four coordinates of the region.
 
 ## result
