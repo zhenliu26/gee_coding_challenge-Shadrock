@@ -19,3 +19,7 @@ From the animation. we can see:
 * The NDVI in the west of China is always low. The potential reason is that the west of China is mostly covered by desert.
 * The NDVI in the south of China is always high. The reasons could be that the south of China is warmer than the North of China, that the density of vegetation in the south of China is higher than the north, or that there is less snow in the south of China in the winter than the north.
 * The NDVI in the northeastern China shows a seasonal pattern. NDVI is low in fall and winter, and high in spring and summer.
+
+Also, there is an essay about the relationship between precipitation and NDVI in China. Wang (2010) points out the NDVI could be affected by the variation of mean annual precipitation, a dominant farming practice, and wheat harvesting during the rainy seasons. 
+
+Tianming Wang, Xiaojun Kou, Youcai Xiong, Pu Mou, Jianguo Wu & Jianping Ge (2010) Temporal and spatial patterns of NDVI and their relationship to precipitation in the Loess Plateau of China, International Journal of Remote Sensing, 31:7, 1943-1958, DOI: 10.1080/01431160902929263
