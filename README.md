@@ -16,10 +16,11 @@ Notice that there are four features in the mask FeatureCollection for China. I u
 
 ## Analysis
 From the animation. we can see:
-* The NDVI in the west of China is always low. The potential reason is that the west of China is mostly covered by desert.
-* The NDVI in the south of China is always high. The reasons could be that the south of China is warmer than the North of China, that the density of vegetation in the south of China is higher than the north, or that there is less snow in the south of China in the winter than the north.
-* The NDVI in the northeastern China shows a seasonal pattern. NDVI is low in fall and winter, and high in spring and summer.
+* The NDVI in the west of China is always low. The potential reason is that the west of China is mostly covered by desert. Also, the density of vegetation in the west of China is low. That’s why the Chinese government spends a lot of money on the water transfer from the southeastern to the west.
+* The NDVI in the south of China is always high. The reasons could be that the south of China is warmer than the North of China, that the density of vegetation in the south of China is higher than in the north, or that there is less snow in the south of China in the winter than in the north.
+* The NDVI in northeastern China shows a seasonal pattern. NDVI is low in fall and winter, and high in spring and summer. The potential reason is that the snow is heavy in northeastern China in Winter. The snow covers the landcover, so there is a long period in the animation that northeastern China has low NDVI.
 
-Also, there is an essay about the relationship between precipitation and NDVI in China. Wang (2010) points out the NDVI could be affected by the variation of mean annual precipitation, a dominant farming practice, and wheat harvesting during the rainy seasons. 
+Also, there is an essay about the relationship between precipitation and NDVI in China. Wang (2010) points out the NDVI could be affected by the variation of mean annual precipitation, a dominant farming practice, and wheat harvesting during the rainy seasons.
+
 
 Tianming Wang, Xiaojun Kou, Youcai Xiong, Pu Mou, Jianguo Wu & Jianping Ge (2010) Temporal and spatial patterns of NDVI and their relationship to precipitation in the Loess Plateau of China, International Journal of Remote Sensing, 31:7, 1943-1958, DOI: 10.1080/01431160902929263
